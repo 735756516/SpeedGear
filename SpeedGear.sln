@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeedGear", "SpeedGear\SpeedGear.vcxproj", "{970F9255-5754-423F-9695-5202C4E37F50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GearInject", "GearInject\GearInject.vcxproj", "{6B33181B-F113-40FD-96D8-13B080AE1EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970F9255-5754-423F-9695-5202C4E37F50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{970F9255-5754-423F-9695-5202C4E37F50}.Debug|Win32.Build.0 = Debug|Win32
+		{970F9255-5754-423F-9695-5202C4E37F50}.Release|Win32.ActiveCfg = Release|Win32
+		{970F9255-5754-423F-9695-5202C4E37F50}.Release|Win32.Build.0 = Release|Win32
+		{6B33181B-F113-40FD-96D8-13B080AE1EA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B33181B-F113-40FD-96D8-13B080AE1EA7}.Debug|Win32.Build.0 = Debug|Win32
+		{6B33181B-F113-40FD-96D8-13B080AE1EA7}.Release|Win32.ActiveCfg = Release|Win32
+		{6B33181B-F113-40FD-96D8-13B080AE1EA7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
